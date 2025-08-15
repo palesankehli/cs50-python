@@ -1,5 +1,7 @@
 README editting because I can(Testing purposes)
 
+
+
 --PROBLEM SET 0--
 
 - First problem, kinda nervous :(
@@ -16,7 +18,7 @@ README editting because I can(Testing purposes)
 - Learned to convert input into "float"
 - Combined functions, "if" statements to solve problem
 
-At this point I see the progress i have made as I move to other problem sets, I am proud of myself :)
+At this point I see the progress I have made as I move to other problem sets, I have also been using comments quite a lot although I clear them out when I want to clean up my code before submitting but it helps a lot, I am proud of myself :)
 
 --PROBLEM SET 2--
 
@@ -30,5 +32,5 @@ At this point I see the progress as we are starting to use other forms of data l
 
 --PROBLEM SET 3--
 
-I have noticed that I am getting better at preaking down a problem into little pieces and solve them individually which helps me in understanding it better, I just need to work on the constant panic coz that is how I always start before actually sooving the problem:)
+I have noticed that I am getting better at breaking down a problem into little pieces and solve them individually which helps me in understanding it better, I just need to work on the constant panic coz that is how I always start before actually solving the problem:)
 
