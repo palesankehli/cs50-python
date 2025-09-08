@@ -32,5 +32,6 @@ At this point I see the progress as we are starting to use other forms of data l
 
 --PROBLEM SET 3--
 
+- Started using the Exceptions to catch errors
 I have noticed that I am getting better at breaking down a problem into little pieces and solve them individually which helps me in understanding it better, I just need to work on the constant panic coz that is how I always start before actually solving the problem:)
 
