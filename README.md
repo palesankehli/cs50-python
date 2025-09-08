@@ -34,4 +34,5 @@ At this point I see the progress as we are starting to use other forms of data l
 
 - Started using the Exceptions to catch errors
 I have noticed that I am getting better at breaking down a problem into little pieces and solve them individually which helps me in understanding it better, I just need to work on the constant panic coz that is how I always start before actually solving the problem:)
+- Working with dictionaries has not been easy as they don't exactly have the same methods as strings that I have been working on for a while, it makes these tasks just a little harder but I am working on it. 
 
