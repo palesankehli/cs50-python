@@ -39,3 +39,4 @@ I have noticed that I am getting better at breaking down a problem into little p
 --PROMBLEM SET 4--
 
 - I have started working with libraries and using terms like "import" on top of my files, being able to install a library from the command line and all. I like the idea of being able to reuse code that was written by someone else, however I feel like I am still gonna struggle a little bit with making that code work together with mine but I am up for it, Imposter's syndrome kicks in every once in a while but lookking at my progress makes me keep going :-)
+- On the 3rd problem in this problem set, I feel like I am making progress when it comes to working with the packages
